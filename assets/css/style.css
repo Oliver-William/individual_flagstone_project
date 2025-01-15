@@ -73,6 +73,10 @@ nav {
     display: none;
 }
 
+#burger-icon {
+    color: #209CEE;
+}
+
 /* Main content */
 main {
     flex: 1 0 auto;
