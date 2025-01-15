@@ -79,8 +79,22 @@ main {
     margin-top: 47px;
 }
 
-/* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #209CEE;
+}
+
+/* Media query: tablets and larger (820px and up) */
+@media screen and (min-width: 820px) {
     /* Header */
     nav {
         display: block;
@@ -111,6 +125,7 @@ main {
 }
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hover{
+    #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+}
