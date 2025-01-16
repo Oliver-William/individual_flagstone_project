@@ -75,6 +75,14 @@ main {
     color: #ffffff;
 }
 
+/* Diversity Section */
+
+#diversity-image {
+    border-radius: 50%;
+    max-width: 60%;
+    margin: auto;
+    padding: 20px;
+}
 
 /* Footer */
 #social-networks {
