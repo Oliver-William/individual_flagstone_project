@@ -115,9 +115,9 @@ The website appears to meet the basic criteria and I greatly enjoyed this exerci
 ## Code Attribution
 I used code from the following sources:
 
-Code Institute LMS lessons
-Bootstrap
-Microsoft CoPilot
-Fontawesome.com
-favicon.io
+Code Institute LMS lessons,
+Bootstrap,
+Microsoft CoPilot,
+fontawesome.com,
+favicon.io, and
 Google Fonts
