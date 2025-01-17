@@ -42,9 +42,17 @@ All icons were sourced from https://fontawesome.com/
 ### Favicon
 My favicon was designed using https://favicon.io/
 ## AI
+I used Microsoft CoPilot to generate AI text, as well as to assist with and generate some CSS and JavaScript code.  I found that this was particularly helpful in helping me to fix bugs, as well as with areas of coding that I am less confident with, such as using CSS flexbox and the box method to change the position of elements on the page.
 
 ## Features Implementation
 ### Navigation
+The main feature of the page is the navigation bar (please see the image below), which links to other points on the same page.
+![image](https://github.com/user-attachments/assets/2e79ecdd-13c4-4e49-8529-92bb09ab7e98)
+This is responsive to screen size, so will chnage to a dropdown menu for smaller screens, as is shown in the image below:
+![image](https://github.com/user-attachments/assets/15fa4436-5cef-4f56-98d7-065353fab252)
+In addition, external links are provided to enable users to navigate to other websites for further information:
+![image](https://github.com/user-attachments/assets/1c5402ce-7266-4e5c-b9c2-485d899783fa)
+
 ### Core Features
 ### Advanced Features
 ### Optional Features
