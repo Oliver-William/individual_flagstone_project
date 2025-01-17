@@ -118,6 +118,12 @@ button {
     padding: 20px;
 }
 
+#resources-title {
+    margin: auto;
+    max-width: 90%;
+    padding: 20px;
+}
+
 #resources {
     margin: auto;
     max-width: 90%;
