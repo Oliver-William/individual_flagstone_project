@@ -73,6 +73,8 @@ In addition to the key information, external links are provided to enable users 
 ### Optional Features
 
 Vibrant images are included to break up the text and engage the user:
+
+
 ![image](https://github.com/user-attachments/assets/31baf447-3748-43ff-b801-34f2afc1106d)
 
 ## Testing and Validation
@@ -91,6 +93,7 @@ Desktop page results:
 
 
 ### HTML Validation
+HTML validation was completed using 
 ### CSS Validation
 
 ## Reflection of Development
