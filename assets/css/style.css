@@ -51,6 +51,27 @@ main {
     margin-top: 47px;
 }
 
+.bg-body-tertiary { 
+    background-color: #209CEE !important;
+}
+
+.navbar-brand {
+    color: #ffffff;
+    font-size: 300%;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+button {
+    color: #ffffff !important;
+}
+
+.navbar-toggler {
+    color: #ffffff;
+}
+
 /* Hero section */
 #hero {
     height: 600px;
