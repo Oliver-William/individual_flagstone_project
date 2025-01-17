@@ -3,40 +3,42 @@
 ![image](https://github.com/user-attachments/assets/7169be24-c725-4e77-bbde-438e43f59960)
 
 ## Purpose
-User Stories
-Must Have
-Should Have
-Could Have
+
+
+### User Stories
+### Must Have
+### Should Have
+### Could Have
 
 ## Design Decisions
-Planning
-Colours
-Font
-Images
-Icons
-Favicon
+### Planning
+###Colours
+### Font
+### Images
+### Icons
+### Favicon
 
 ## AI
 
 ## Features Implementation
-Navigation
-Core Features
-Advanced Features
-Optional Features
-Known Bugs
+### Navigation
+### Core Features
+### Advanced Features
+### Optional Features
+### Known Bugs
 
 ## Testing and Validation
-Colour Testing
-Performance, Accessibility, Best Practices, and SEO
-HTML Validation
-CSS Validation
+### Colour Testing
+### Performance, Accessibility, Best Practices, and SEO
+### HTML Validation
+### CSS Validation
 
-## Relection of Development
-Successes
+## Reflection of Development
+### Successes
 
-Challenges
+### Challenges
 
-Summary
+### Summary
 
 ## Code Attribution
 
