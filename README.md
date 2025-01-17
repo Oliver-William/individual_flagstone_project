@@ -20,11 +20,27 @@ Given the limited scope of the project, I opted not to use wireframes for design
 I wanted to choose a colour scheme that would be professional, clear and relatively vibrant, as I wanted the webpage to encourage the user to trust it as a source of information, but also to be engaged by it.
 I decided that a light blue with a white background, broken up with carefully selected images, would offer a clean and captivating palette for the user.  Initally, I styled the website using #209CEE as a background colour with white text (#FFFFFF) overlaying it for the navigation bar and anchor links, but upon testing this for WCAG compliance, I found that this colour combination failed: 
 
-### Font
-### Images
-### Icons
-### Favicon
+![image](https://github.com/user-attachments/assets/c00f30c8-1d23-4575-96e2-053c2faa259b)
 
+As I did not test this until a late stage in the development process, I opted to use #2E2EFF, as it was WCAG compliant (please see the image below); unfortunately it is not as aesthetically pleasing, so in future I will carry out WCAG testing at a much earlier stage.
+
+![image](https://github.com/user-attachments/assets/161ec277-b118-46bb-94ab-32cd12bf8d6c)
+
+
+### Font
+I used to similar fonts for this project, which I sourced from Google Fonts:
+#### Roboto Condensed (for the title):
+![image](https://github.com/user-attachments/assets/193ebed7-21b2-453b-88ea-44c9a6cfc26d)
+#### Roboto Flex (for the body):
+![image](https://github.com/user-attachments/assets/fbf5cefe-4fbf-4c67-ab1a-067214c7b855)
+
+
+### Images
+All images were sourced from https://www.pexels.com/ 
+### Icons
+All icons were sourced from https://fontawesome.com/
+### Favicon
+My favicon was designed using https://favicon.io/
 ## AI
 
 ## Features Implementation
@@ -36,6 +52,7 @@ I decided that a light blue with a white background, broken up with carefully se
 
 ## Testing and Validation
 ### Colour Testing
+https://webaim.org/resources/contrastchecker/
 ### Performance, Accessibility, Best Practices, and SEO
 ### HTML Validation
 ### CSS Validation
