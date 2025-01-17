@@ -112,6 +112,42 @@ button {
     padding: 20px;
 }
 
+#tips {
+    margin: auto;
+    max-width: 90%;
+    padding: 20px;
+}
+
+#resources {
+    margin: auto;
+    max-width: 90%;
+    padding: 20px;
+}
+
+/* Ensure each column (card) within the row is flex and stretches to the same height */
+#resources {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#resources .col-sm-12 {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ensure each card-body within the columns stretches to the same height */
+#external-resource {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Add spacing between rows */
+#resources .col-sm-12 {
+    margin-bottom: 10px;
+}
+
 
 /* Footer */
 #social-networks {
