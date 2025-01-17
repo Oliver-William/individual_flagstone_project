@@ -46,22 +46,50 @@ I used Microsoft CoPilot to generate AI text, as well as to assist with and gene
 
 ## Features Implementation
 ### Navigation
-The main feature of the page is the navigation bar (please see the image below), which links to other points on the same page.
+The main responsive feature of the page is the navigation bar (please see the image below), which links to other points on the same page.
 ![image](https://github.com/user-attachments/assets/2e79ecdd-13c4-4e49-8529-92bb09ab7e98)
-This is responsive to screen size, so will chnage to a dropdown menu for smaller screens, as is shown in the image below:
+
+This is responsive to screen size, so will change to a dropdown menu for smaller screens, as is shown in the image below:
 ![image](https://github.com/user-attachments/assets/15fa4436-5cef-4f56-98d7-065353fab252)
-In addition, external links are provided to enable users to navigate to other websites for further information:
-![image](https://github.com/user-attachments/assets/1c5402ce-7266-4e5c-b9c2-485d899783fa)
 
 ### Core Features
+The webpage aims to meet the core aims of defining diversity and inclusion, as well as providing information on how they can be implemented; these are demonstrated in the screenshots below:
+
+Definitions of diversity and inclusion:
+
+![image](https://github.com/user-attachments/assets/83c68276-f6ca-4ac3-a431-bce38f8e5955)
+
+Information on implementation:
+
+![image](https://github.com/user-attachments/assets/6a707f06-176a-45a1-8171-44dd059eebc1)
+
+
+
 ### Advanced Features
+
+In addition to the key information, external links are provided to enable users to navigate to other websites for further information:
+![image](https://github.com/user-attachments/assets/1c5402ce-7266-4e5c-b9c2-485d899783fa)
+
 ### Optional Features
-### Known Bugs
+
+Vibrant images are included to break up the text and engage the user:
+![image](https://github.com/user-attachments/assets/31baf447-3748-43ff-b801-34f2afc1106d)
 
 ## Testing and Validation
+
 ### Colour Testing
-https://webaim.org/resources/contrastchecker/
+As mentioned above, I tested the colour scheme for WCAG compliance using https://webaim.org/resources/contrastchecker/
+
 ### Performance, Accessibility, Best Practices, and SEO
+These were tested using https://pagespeed.web.dev/?hl=en-GB:
+
+Mobile page results:
+![image](https://github.com/user-attachments/assets/6d9fadbe-5dda-45f9-a764-caa07a91660d)
+
+Desktop page results:
+![image](https://github.com/user-attachments/assets/630a45e8-e81b-475d-b164-990126f3bcbf)
+
+
 ### HTML Validation
 ### CSS Validation
 
