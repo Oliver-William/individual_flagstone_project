@@ -93,15 +93,31 @@ Desktop page results:
 
 
 ### HTML Validation
-HTML validation was completed using 
+HTML validation was completed using https://validator.w3.org/:
+![image](https://github.com/user-attachments/assets/25f865e2-904a-41e4-bb06-28d63f043576)
+
+
 ### CSS Validation
+CSS validation was completed using https://jigsaw.w3.org/css-validator/:
+![image](https://github.com/user-attachments/assets/81577fe6-9885-42d5-adc6-eae89b3fe2cc)
+
 
 ## Reflection of Development
 ### Successes
+Overall, I am satisfied with the responsive of my website; the basic features largely work in the manner I want them to.
 
 ### Challenges
+The project has highlighted to me that I need to gain much more familiarity with CSS, particularly with regard to the box model and flex box, as I was highly dependent on Bootstrap to assist me.  I also realise that I should have spent far more time thinking about the design of the website and considering accessibility at a much earlier stage.
 
 ### Summary
+The website appears to meet the basic criteria and I greatly enjoyed this exercise, but I am highly aware that I need to make a lot more progress on design and on user experience.
 
 ## Code Attribution
+I used code from the following sources:
 
+Code Institute LMS lessons
+Bootstrap
+Microsoft CoPilot
+Fontawesome.com
+favicon.io
+Google Fonts
