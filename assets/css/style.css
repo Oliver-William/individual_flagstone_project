@@ -124,6 +124,12 @@ button {
     padding: 20px;
 }
 
+/*Tips Section */
+
+h3 {
+    font-size: 200%;
+}
+
 /* Ensure each column (card) within the row is flex and stretches to the same height */
 #resources {
     display: flex;
@@ -148,6 +154,9 @@ button {
     margin-bottom: 10px;
 }
 
+.btn-primary {
+    background-color: #209CEE !important;
+}
 
 /* Footer */
 #social-networks {
